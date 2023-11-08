@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+ body{
+    height: 100vh;
+ }
+#whatsapp{
+    position: fixed;
+    align-self: flex-end;
+    justify-self: flex-start;
+    
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    background-color: white;
+}
+
+.menu li {
+    display: inline-block;
+    position: relative;
+}
+
+.menu a {
+    display: block;
+    padding: 10px 20px;
+    color: #20b8d4;
+    text-decoration: none;
+}
+
+/* Estilo del menú desplegable */
+.submenu {
+    display: none;
+    position: absolute;
+    background-color: white;
+}
+
+.submenu li {
+    display: block;
+}
+
+/* Mostrar el menú desplegable al pasar el cursor */
+.menu li:hover .submenu {
+    display: block;
+}
+
+/* Estilo al pasar el cursor sobre el menú principal */
+.menu li:hover a {
+    background-color: white;
+}
+
+.menu img{
+    width: 15vh;
+    height: 15vh;
+}
