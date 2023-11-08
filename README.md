@@ -1,7 +1,7 @@
 <h1>Proyecto Final</h1>
 <h2>Web de compras : Roller Dreams</h2>
 
-<b>Repositorio en el cual subiré los archivos del ultimo proyecto de la materia Bases de Datos:bookmark_tabs:	:computer:	</b></br>
+<b>Repositorio en el cual subiremos los archivos del ultimo proyecto de la materia Bases de Datos:bookmark_tabs:	:computer:	</b></br>
 
 :construction: Proyecto en construcción :construction:</br>
 🔹Materia: Bases de datos</br>
