@@ -1,16 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&family=Raleway:wght@300&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
  }
+ 
  body{
     height: 100vh;
+    font-family: 'Raleway', sans-serif;
  }
 #whatsapp{
     position: fixed;
     align-self: flex-end;
     justify-self: flex-start;
     
+}
+.titulo{
+    margin-left: 2vh;
+    font-family: 'Qwitcher Grypen', cursive;
+    text-shadow: 3px 3px 3px #929191;
+    color: rgb(14, 13, 13);
+    font-size:xx-large;
+    
+    
+}
+
+.menu{
+    width: 98%;
+    height: 9vh;
 }
 
 .menu ul {
@@ -27,7 +45,7 @@
 .menu a {
     display: block;
     padding: 10px 20px;
-    color: #20b8d4;
+    color: #252525;
     text-decoration: none;
 }
 
@@ -51,8 +69,22 @@
 .menu li:hover a {
     background-color: white;
 }
+#cuenta{
+    justify-self: 
+    end;
+}
+#article1{
+    display: block;
+    width: 100%;
+    height: 30vh;
+}
+#section1{
+    display: inline-block;
+    width: 100%;
+    
 
-.menu img{
-    width: 15vh;
-    height: 15vh;
+}
+article section img{
+   width:100% ;
+   height: auto;
 }
