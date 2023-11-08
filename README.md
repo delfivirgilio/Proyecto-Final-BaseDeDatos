@@ -1,13 +1,15 @@
-<b>Proyecto Final</b>
+<h1>Proyecto Final</h1>
+<h2>Web de compras : Roller Dreams</h2>
 
-<b>Repositorio en el cual subiré los archivos del ultimo proyecto de la materia Bases de Datos:bookmark_tabs:	:computer:	</b>
-:construction: Proyecto en construcción :construction:
-🔹Materia: Bases de datos
-🔹Profesor: Lopez Nelson
-🔹Integrantes: Nicolausig Sebastian, Virgilio Delfina
+<b>Repositorio en el cual subiré los archivos del ultimo proyecto de la materia Bases de Datos:bookmark_tabs:	:computer:	</b></br>
 
-:heavy_check_mark:	Tecnologias utilizadas:
-***:purple_circle:	HTML
-***:purple_circle:	CSS
-***:purple_circle:	NODE.JS
+:construction: Proyecto en construcción :construction:</br>
+🔹Materia: Bases de datos</br>
+🔹Profesor: Lopez Nelson</br>
+🔹Integrantes: Nicolausig Sebastian, Virgilio Delfina</br>
+
+:heavy_check_mark:	Tecnologias utilizadas:</br>
+:purple_circle:	HTML</br>
+:purple_circle:	CSS</br>
+:purple_circle:	NODE.JS</br>
 
