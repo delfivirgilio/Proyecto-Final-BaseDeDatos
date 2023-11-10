@@ -81,6 +81,7 @@
 }
 .imagen{
     width: 100vh;
+    transition: transform 0.5s ease-in-out;
 }
 .btn-custom{
     background-color: white;
@@ -106,9 +107,12 @@ a:hover{
 .contenedor:hover .imagen {
     -webkit-transform:scale(1.2);
     transform:scale(1.2);
+   
 }
+
 .contenedor {
     overflow:hidden;
+    
 }
 
 #patinadora {
@@ -116,3 +120,4 @@ a:hover{
     padding: 0;
 
 }
+
