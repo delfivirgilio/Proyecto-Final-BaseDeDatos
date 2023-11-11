@@ -16,15 +16,7 @@
     justify-self: flex-start;
     
 }
-.titulo{
-    margin-left: 2vh;
-    font-family: 'Qwitcher Grypen', cursive;
-    text-shadow: 3px 3px 3px #929191;
-    color: rgb(14, 13, 13);
-    font-size:xx-large;
-    
-    
-}
+
 
 .menu{
     width: 100%;
@@ -46,7 +38,7 @@
 
 .menu a {
     display: block;
-    padding: 10px 20px;
+    padding: 10px 10px;
     color: #252525;
     text-decoration: none;
 }
@@ -118,3 +110,14 @@ a:hover{
     z-index: 0;
 }
 
+.titulo{
+    margin-left: 2vh;
+    font-family: 'Qwitcher Grypen', cursive;
+    text-shadow: 3px 3px 3px #929191;
+    color: rgb(14, 13, 13);
+    font-size:xx-large;
+    margin: 0;
+    padding: 0;
+    
+    
+}
