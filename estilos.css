@@ -118,6 +118,7 @@ a:hover {
     padding: 0;
 }
 
+/* Formulario */
 #contenedor {
     width: 50%;
     margin: 50px auto;
@@ -151,7 +152,7 @@ input[type="text"] {
     margin-top: 5px;
     margin-bottom: 10px;
     box-sizing: border-box;
-    border: 1px solid #ccc;
+    border: 1px solid #759eeb;
     border-radius: 5px;
 }
 
@@ -165,5 +166,5 @@ input[type="text"] {
 }
 
 #boton:hover {
-    background-color: #0056b3;
+    background-color: #89add4;
 }
