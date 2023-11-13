@@ -13,3 +13,9 @@
 :purple_circle:	CSS</br>
 :purple_circle:	NODE.JS</br>
 
+:heavy_check_mark:	Pasos para ejecutar:</br>
+:small_blue_diamond:	Clonar el repositorio</br>
+:small_blue_diamond:	Subir al servidor Apache</br>
+:small_blue_diamond:	Escribir la ruta en el navegador (Ej: localhost/proyecto)</br>
+
+
