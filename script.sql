@@ -27,4 +27,4 @@ CREATE TABLE Comentarios (
     FOREIGN KEY (UsuarioID) REFERENCES Usuarios(ID)
 );
 
-DROP DATABASE IF EXISTS RollerDreams;  -- Comentario: Puedes comentar o eliminar esta línea si no es necesaria
+DROP DATABASE IF EXISTS RollerDreams; 
