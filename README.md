@@ -9,13 +9,13 @@
 🔹Integrantes: Nicolausig Sebastian, Virgilio Delfina</br>
 
 :heavy_check_mark:	Tecnologias utilizadas:</br>
-:purple_circle:	HTML</br>
+:purple_circle:	EJS</br>
 :purple_circle:	CSS</br>
 :purple_circle:	NODE.JS</br>
+:purple_circle:	MYSQL</br>
 
-:heavy_check_mark:	Pasos para ejecutar:</br>
-:small_blue_diamond:	Clonar el repositorio</br>
-:small_blue_diamond:	Subir al servidor Apache</br>
-:small_blue_diamond:	Escribir la ruta en el navegador (Ej: localhost/proyecto)</br>
+:heavy_check_mark:	Sitio Web</br>
+:small_blue_diamond:	Este sitio es una web de compras de patines y bolsos de patin con un login y registro funcional.
+
 
 
